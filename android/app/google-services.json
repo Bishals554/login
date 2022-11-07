@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169711487883",
+    "project_id": "vscode-firebaselogin",
+    "storage_bucket": "vscode-firebaselogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169711487883:android:7056538fc61942a5e17d8e",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169711487883-3olvv5id3kbbke5q60rlr8vuprek7rsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEZu7PtIfrechPM3ufQ5kH1ZatPq7aDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169711487883-3olvv5id3kbbke5q60rlr8vuprek7rsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

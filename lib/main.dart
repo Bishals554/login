@@ -8,6 +8,7 @@ import 'package:login/screens/status_page.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Future.delayed(Duration(milliseconds: 500));
   await Firebase.initializeApp();
   SystemChrome.setSystemUIOverlayStyle(
     SystemUiOverlayStyle(statusBarColor: Colors.black)
